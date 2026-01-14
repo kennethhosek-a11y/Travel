@@ -7,4 +7,5 @@ langchain-community
 pydantic
 tabulate
 xlsxwriter
+
 openpyxl
