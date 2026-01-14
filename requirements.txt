@@ -7,5 +7,5 @@ langchain-community
 pydantic
 tabulate
 xlsxwriter
-
+duckduckgo-search
 openpyxl
