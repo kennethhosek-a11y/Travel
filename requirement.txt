@@ -1,0 +1,10 @@
+streamlit
+pandas
+crewai
+crewai_tools
+langchain-google-genai
+langchain-community
+pydantic
+tabulate
+xlsxwriter
+openpyxl
